@@ -1,0 +1,10 @@
+.custom_background_color {
+    background-color: rgb(3, 103, 121) !important;
+    /* background-image: url("../assets/img/Jacob\ Square.png"); */
+    /* background-image: none; */
+   
+}
+
+.custom_text_color {
+    color: rgb(3, 103, 121) !important;
+}
